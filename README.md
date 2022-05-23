@@ -50,9 +50,9 @@ SO THAT I can prove a fun, growth filled life for my dogs
 ![Signed Out Dashboard](./public/img/loggedin-dashboard.png)
 
 ## Link
-A link to the [code](https://github.com/wwstrothe/Doggy-Daycare/tree/workingcode):
+A link to the [code](https://github.com/wwstrothe/Doggy-Daycare/):
 ```
-https://github.com/wwstrothe/Doggy-Daycare/tree/workingcode
+https://github.com/wwstrothe/Doggy-Daycare/
 ```
 
 A link to the deployed [application](https://vast-plains-21432.herokuapp.com/):
